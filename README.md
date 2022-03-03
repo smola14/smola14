@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @smola14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Smola - WELCOME TO MY GITHUB PAGE 👋 
 
-<!---
-smola14/smola14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Vue.js
+- 🥅 2022 Goals: Launch my first project
+- ⚡ Hobbies: Football, PC games
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+
+<br />
+
