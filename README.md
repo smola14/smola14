@@ -1,8 +1,8 @@
 ### Hi, I'm Smola - WELCOME TO MY GITHUB PAGE 👋 
 
 - 🌱 I’m currently learning Vue.js
-- 🥅 2022 Goals: Launch my first projects
-- ⚡ Hobbies: Football, PC games
+- 🥅 2022 Goal: Become freelancer
+- ⚡ Hobbies: Football, PC games, Programming(not for long:)
 
 ### Connect with me:
 
