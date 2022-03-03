@@ -10,3 +10,4 @@
 - Facebook - https://www.facebook.com/dominik.smolinsky147/
 - Instagram - https://www.instagram.com/sml_webdev/
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/simpleicons.svg" />
