@@ -1,4 +1,4 @@
-### Hi, I'm Smola - WELCOME TO MY GITHUB PAGE 👋 
+<center>### Hi, I'm Smola - WELCOME TO MY GITHUB PAGE 👋 </center>
 ## JUNIOR FRONTEND DEVELOPER
 
 - 🌱 I’m currently learning Vue.js
