@@ -11,8 +11,8 @@ University of Technology, Brno (Czech Republic)
 Field of study - Sport Technology
 
 ## Stay connected :earth_asia:   
-:globe_with_meridians: [Personal website](https://smola14.github.io/)
-[Facebook](https://www.facebook.com/dominik.smolinsky147/)
+:globe_with_meridians: [Personal website](https://smola14.github.io/)  
+[Facebook](https://www.facebook.com/dominik.smolinsky147/)  
 [Instagram](https://www.instagram.com/sml_webdev/)
 
 
