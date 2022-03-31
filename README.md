@@ -2,12 +2,12 @@
 Hi, my name is Dominik Smolinský and i am Junior Frontend Developer.
 
 ## Education
-:clock3: 2011 - 2019
-Grammar school of Ladislav Nomoveský, Senica (Slovakia)
+:clock3: 2011 - 2019  
+Grammar school of Ladislav Nomoveský, Senica (Slovakia)  
 Graduated from Math and Informatics
 
-:clock3: 2019 - present
-University of Technology, Brno (Czech Republic)
+:clock3: 2019 - present  
+University of Technology, Brno (Czech Republic)  
 Field of study - Sport Technology
 
 - 🌱 I’m currently learning Vue.js
