@@ -11,8 +11,8 @@ University of Technology, Brno (Czech Republic)
 Field of study - Sport Technology
 
 ## Work  
-July 2022 - present 
-[Panoris](https://www.panoris.com/)
+July 2022 - present </br>
+[Panoris](https://www.panoris.com/)</br>
 IT Support in company aimed to video-analysis of sport, mainly football matches.
 
 ## Stay connected :earth_asia:   
