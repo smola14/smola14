@@ -1,5 +1,5 @@
 ## About me :grin:
-Hi, my name is Dominik Smolinský and i am Junior Frontend Developer.
+Hi, my name is Dominik Smolinský.
 
 ## Education :school:   
 :clock3: 2011 - 2019 Highschool  
